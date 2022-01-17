@@ -7,7 +7,7 @@
 ---------
 - [User story](#user-story)
 - [Technologies Used](#technologies-used)
-- [Usage](#usage)
+- [Screenshot](#screenshot)
 - [License](#license)
 - [Questions](#questions)
 
