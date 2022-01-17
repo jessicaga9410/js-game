@@ -16,7 +16,7 @@
 
 
 ## Technologies Used
-------
+
 ``HTML ``
 ``CSS``
 ``JavaScript``
@@ -25,9 +25,9 @@
 -----
 ![Screenshot (161)](https://user-images.githubusercontent.com/87554644/149829901-3990274e-661b-4432-b6e7-bde371575b20.png)
 
--
+
 ### License
--------
+
 ![badge](https://img.shields.io/badge/license-MIT-ff69b4)
 
 This application is covered by the MIT license. 
